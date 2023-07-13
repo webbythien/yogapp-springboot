@@ -1,8 +1,8 @@
 cloud:
   aws:
     credentials:
-      access-key: AKIARM3NVBBDTG2BCVEA
-      secret-key: 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
+      access-key: AKIA4YPMUJT7LBDDOQEK
+      secret-key: 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
     region:
       static: ap-southeast-1
     stack:
@@ -10,7 +10,7 @@ cloud:
 
 application:
   bucket:
-    name: yoga-heartbeat
+    name: yoga-heartbeat-s3
 
 
 spring:
